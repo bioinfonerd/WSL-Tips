@@ -1,5 +1,8 @@
 # Windows SubSystem Tips
 
+# Installing WSL
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
 # Installing Docker
 https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly
 
